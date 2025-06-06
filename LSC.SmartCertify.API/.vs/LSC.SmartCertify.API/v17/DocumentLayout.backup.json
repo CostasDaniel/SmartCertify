@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CE084EA-D2EE-4064-8062-42DF297301A5}|LSC.SmartCertify.API\\LSC.SmartCertify.API.csproj|c:\\users\\et61279\\onedrive - evertec group, llc\\escritorio\\cursos\\smartcertify\\lsc.smartcertify.api\\lsc.smartcertify.api\\lsc.smartcertify.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1CE084EA-D2EE-4064-8062-42DF297301A5}|LSC.SmartCertify.API\\LSC.SmartCertify.API.csproj|solutionrelative:lsc.smartcertify.api\\lsc.smartcertify.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD98645C-3101-486A-A630-BA915ED8A5CC}|LSC.SmartCertify.Domain\\LSC.SmartCertify.Domain.csproj|c:\\users\\et61279\\onedrive - evertec group, llc\\escritorio\\cursos\\smartcertify\\lsc.smartcertify.api\\lsc.smartcertify.domain\\lsc.smartcertify.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BD98645C-3101-486A-A630-BA915ED8A5CC}|LSC.SmartCertify.Domain\\LSC.SmartCertify.Domain.csproj|solutionrelative:lsc.smartcertify.domain\\lsc.smartcertify.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964A4756-D7A8-4477-B3A8-BC0E7B45DFC0}|LSC.SmartCertify.Infrastructure\\LSC.SmartCertify.Infrastructure.csproj|c:\\users\\et61279\\onedrive - evertec group, llc\\escritorio\\cursos\\smartcertify\\lsc.smartcertify.api\\lsc.smartcertify.infrastructure\\lsc.smartcertify.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{964A4756-D7A8-4477-B3A8-BC0E7B45DFC0}|LSC.SmartCertify.Infrastructure\\LSC.SmartCertify.Infrastructure.csproj|solutionrelative:lsc.smartcertify.infrastructure\\lsc.smartcertify.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1CE084EA-D2EE-4064-8062-42DF297301A5}|LSC.SmartCertify.API\\LSC.SmartCertify.API.csproj|c:\\users\\et61279\\onedrive - evertec group, llc\\escritorio\\cursos\\smartcertify\\lsc.smartcertify.api\\lsc.smartcertify.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE084EA-D2EE-4064-8062-42DF297301A5}|LSC.SmartCertify.API\\LSC.SmartCertify.API.csproj|solutionrelative:lsc.smartcertify.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CE084EA-D2EE-4064-8062-42DF297301A5}|LSC.SmartCertify.API\\LSC.SmartCertify.API.csproj|c:\\users\\et61279\\onedrive - evertec group, llc\\escritorio\\cursos\\smartcertify\\lsc.smartcertify.api\\lsc.smartcertify.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CE084EA-D2EE-4064-8062-42DF297301A5}|LSC.SmartCertify.API\\LSC.SmartCertify.API.csproj|solutionrelative:lsc.smartcertify.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{964A4756-D7A8-4477-B3A8-BC0E7B45DFC0}|LSC.SmartCertify.Infrastructure\\LSC.SmartCertify.Infrastructure.csproj|c:\\users\\et61279\\onedrive - evertec group, llc\\escritorio\\cursos\\smartcertify\\lsc.smartcertify.api\\lsc.smartcertify.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964A4756-D7A8-4477-B3A8-BC0E7B45DFC0}|LSC.SmartCertify.Infrastructure\\LSC.SmartCertify.Infrastructure.csproj|solutionrelative:lsc.smartcertify.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{964A4756-D7A8-4477-B3A8-BC0E7B45DFC0}|LSC.SmartCertify.Infrastructure\\LSC.SmartCertify.Infrastructure.csproj|c:\\users\\et61279\\onedrive - evertec group, llc\\escritorio\\cursos\\smartcertify\\lsc.smartcertify.api\\lsc.smartcertify.infrastructure\\xsmartcertifycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964A4756-D7A8-4477-B3A8-BC0E7B45DFC0}|LSC.SmartCertify.Infrastructure\\LSC.SmartCertify.Infrastructure.csproj|solutionrelative:lsc.smartcertify.infrastructure\\xsmartcertifycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{613081C4-6164-4AB8-A789-550CDE05D82A}|LSC.SmartCertify.Application\\LSC.SmartCertify.Application.csproj|c:\\users\\et61279\\onedrive - evertec group, llc\\escritorio\\cursos\\smartcertify\\lsc.smartcertify.api\\lsc.smartcertify.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{613081C4-6164-4AB8-A789-550CDE05D82A}|LSC.SmartCertify.Application\\LSC.SmartCertify.Application.csproj|solutionrelative:lsc.smartcertify.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CE084EA-D2EE-4064-8062-42DF297301A5}|LSC.SmartCertify.API\\LSC.SmartCertify.API.csproj|c:\\users\\et61279\\onedrive - evertec group, llc\\escritorio\\cursos\\smartcertify\\lsc.smartcertify.api\\lsc.smartcertify.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CE084EA-D2EE-4064-8062-42DF297301A5}|LSC.SmartCertify.API\\LSC.SmartCertify.API.csproj|solutionrelative:lsc.smartcertify.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD98645C-3101-486A-A630-BA915ED8A5CC}|LSC.SmartCertify.Domain\\LSC.SmartCertify.Domain.csproj|c:\\users\\et61279\\onedrive - evertec group, llc\\escritorio\\cursos\\smartcertify\\lsc.smartcertify.api\\lsc.smartcertify.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD98645C-3101-486A-A630-BA915ED8A5CC}|LSC.SmartCertify.Domain\\LSC.SmartCertify.Domain.csproj|solutionrelative:lsc.smartcertify.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CE084EA-D2EE-4064-8062-42DF297301A5}|LSC.SmartCertify.API\\LSC.SmartCertify.API.csproj|c:\\users\\et61279\\onedrive - evertec group, llc\\escritorio\\cursos\\smartcertify\\lsc.smartcertify.api\\lsc.smartcertify.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CE084EA-D2EE-4064-8062-42DF297301A5}|LSC.SmartCertify.API\\LSC.SmartCertify.API.csproj|solutionrelative:lsc.smartcertify.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,93 +38,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LSC.SmartCertify.Domain",
-              "DocumentMoniker": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.Domain\\LSC.SmartCertify.Domain.csproj",
-              "RelativeDocumentMoniker": "LSC.SmartCertify.Domain\\LSC.SmartCertify.Domain.csproj",
-              "ToolTip": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.Domain\\LSC.SmartCertify.Domain.csproj",
-              "RelativeToolTip": "LSC.SmartCertify.Domain\\LSC.SmartCertify.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-06T17:44:01.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LSC.SmartCertify.Infrastructure",
-              "DocumentMoniker": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.Infrastructure\\LSC.SmartCertify.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "LSC.SmartCertify.Infrastructure\\LSC.SmartCertify.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.Infrastructure\\LSC.SmartCertify.Infrastructure.csproj",
-              "RelativeToolTip": "LSC.SmartCertify.Infrastructure\\LSC.SmartCertify.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-06T17:42:57.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LSC.SmartCertify.API",
-              "DocumentMoniker": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.API\\LSC.SmartCertify.API.csproj",
-              "RelativeDocumentMoniker": "LSC.SmartCertify.API\\LSC.SmartCertify.API.csproj",
-              "ToolTip": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.API\\LSC.SmartCertify.API.csproj",
-              "RelativeToolTip": "LSC.SmartCertify.API\\LSC.SmartCertify.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-06T17:42:02.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "LSC.SmartCertify.API\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "LSC.SmartCertify.API\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.API\\Program.cs",
+              "RelativeDocumentMoniker": "LSC.SmartCertify.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.API\\Program.cs",
+              "RelativeToolTip": "LSC.SmartCertify.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T17:33:57.044Z",
+              "WhenOpened": "2025-06-06T19:22:53.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "LSC.SmartCertify.Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "LSC.SmartCertify.Infrastructure\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T12:58:58.626Z",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LSC.SmartCertify.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.API\\appsettings.Development.json",
+              "RelativeToolTip": "LSC.SmartCertify.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T19:17:20.908Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "LSC.SmartCertify.Application\\Class1.cs",
-              "ToolTip": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.Application\\Class1.cs",
-              "RelativeToolTip": "LSC.SmartCertify.Application\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T12:57:33.367Z",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.API\\appsettings.json",
+              "RelativeDocumentMoniker": "LSC.SmartCertify.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.API\\appsettings.json",
+              "RelativeToolTip": "LSC.SmartCertify.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T19:16:27.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "LSC.SmartCertify.Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.Domain\\Class1.cs",
-              "RelativeToolTip": "LSC.SmartCertify.Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "XSmartCertifyContext.cs",
+              "DocumentMoniker": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.Infrastructure\\XSmartCertifyContext.cs",
+              "RelativeDocumentMoniker": "LSC.SmartCertify.Infrastructure\\XSmartCertifyContext.cs",
+              "ToolTip": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.Infrastructure\\XSmartCertifyContext.cs",
+              "RelativeToolTip": "LSC.SmartCertify.Infrastructure\\XSmartCertifyContext.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T12:54:46.781Z",
+              "WhenOpened": "2025-06-06T18:53:46.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "LSC.SmartCertify.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "LSC.SmartCertify.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T17:33:57.044Z",
               "EditorCaption": ""
             }
           ]

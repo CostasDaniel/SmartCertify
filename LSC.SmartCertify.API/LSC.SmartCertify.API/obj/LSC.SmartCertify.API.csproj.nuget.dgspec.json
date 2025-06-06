@@ -64,6 +64,14 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.5, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[14.4.0, )"
+            },
+            "Scalar.AspNetCore": {
+              "target": "Package",
+              "version": "[2.4.12, )"
             }
           },
           "imports": [

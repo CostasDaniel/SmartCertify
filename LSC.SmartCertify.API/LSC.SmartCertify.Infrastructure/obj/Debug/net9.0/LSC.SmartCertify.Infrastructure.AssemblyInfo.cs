@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LSC.SmartCertify.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1db954522412cfaab1beeff95cdbf430be7ffed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95b8fcb13aa884b72a8e7e022a5c1caf4f007d22")]
 [assembly: System.Reflection.AssemblyProductAttribute("LSC.SmartCertify.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LSC.SmartCertify.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

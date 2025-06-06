@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PZcPo4cT6h4=",
+  "dgSpecHash": "M4GcraStD24=",
   "success": true,
   "projectFilePath": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.API\\LSC.SmartCertify.API.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Users\\ET61279\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.5\\microsoft.entityframeworkcore.analyzers.9.0.5.nupkg.sha512",
     "C:\\Users\\ET61279\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.5\\microsoft.entityframeworkcore.relational.9.0.5.nupkg.sha512",
     "C:\\Users\\ET61279\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\9.0.5\\microsoft.entityframeworkcore.sqlserver.9.0.5.nupkg.sha512",
+    "C:\\Users\\ET61279\\.nuget\\packages\\microsoft.extensions.apidescription.server\\8.0.14\\microsoft.extensions.apidescription.server.8.0.14.nupkg.sha512",
     "C:\\Users\\ET61279\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.5\\microsoft.extensions.caching.abstractions.9.0.5.nupkg.sha512",
     "C:\\Users\\ET61279\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.5\\microsoft.extensions.caching.memory.9.0.5.nupkg.sha512",
     "C:\\Users\\ET61279\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.5\\microsoft.extensions.configuration.abstractions.9.0.5.nupkg.sha512",
@@ -23,6 +24,7 @@
     "C:\\Users\\ET61279\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.5\\microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512",
     "C:\\Users\\ET61279\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\9.0.5\\microsoft.extensions.diagnostics.abstractions.9.0.5.nupkg.sha512",
     "C:\\Users\\ET61279\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.5\\microsoft.extensions.fileproviders.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\ET61279\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\9.0.0\\microsoft.extensions.fileproviders.embedded.9.0.0.nupkg.sha512",
     "C:\\Users\\ET61279\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\9.0.5\\microsoft.extensions.hosting.abstractions.9.0.5.nupkg.sha512",
     "C:\\Users\\ET61279\\.nuget\\packages\\microsoft.extensions.logging\\9.0.5\\microsoft.extensions.logging.9.0.5.nupkg.sha512",
     "C:\\Users\\ET61279\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.5\\microsoft.extensions.logging.abstractions.9.0.5.nupkg.sha512",
@@ -41,6 +43,19 @@
     "C:\\Users\\ET61279\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
     "C:\\Users\\ET61279\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\ET61279\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\ET61279\\.nuget\\packages\\namotion.reflection\\3.4.2\\namotion.reflection.3.4.2.nupkg.sha512",
+    "C:\\Users\\ET61279\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ET61279\\.nuget\\packages\\njsonschema\\11.3.2\\njsonschema.11.3.2.nupkg.sha512",
+    "C:\\Users\\ET61279\\.nuget\\packages\\njsonschema.annotations\\11.3.2\\njsonschema.annotations.11.3.2.nupkg.sha512",
+    "C:\\Users\\ET61279\\.nuget\\packages\\njsonschema.newtonsoftjson\\11.3.2\\njsonschema.newtonsoftjson.11.3.2.nupkg.sha512",
+    "C:\\Users\\ET61279\\.nuget\\packages\\njsonschema.yaml\\11.3.2\\njsonschema.yaml.11.3.2.nupkg.sha512",
+    "C:\\Users\\ET61279\\.nuget\\packages\\nswag.annotations\\14.4.0\\nswag.annotations.14.4.0.nupkg.sha512",
+    "C:\\Users\\ET61279\\.nuget\\packages\\nswag.aspnetcore\\14.4.0\\nswag.aspnetcore.14.4.0.nupkg.sha512",
+    "C:\\Users\\ET61279\\.nuget\\packages\\nswag.core\\14.4.0\\nswag.core.14.4.0.nupkg.sha512",
+    "C:\\Users\\ET61279\\.nuget\\packages\\nswag.core.yaml\\14.4.0\\nswag.core.yaml.14.4.0.nupkg.sha512",
+    "C:\\Users\\ET61279\\.nuget\\packages\\nswag.generation\\14.4.0\\nswag.generation.14.4.0.nupkg.sha512",
+    "C:\\Users\\ET61279\\.nuget\\packages\\nswag.generation.aspnetcore\\14.4.0\\nswag.generation.aspnetcore.14.4.0.nupkg.sha512",
+    "C:\\Users\\ET61279\\.nuget\\packages\\scalar.aspnetcore\\2.4.12\\scalar.aspnetcore.2.4.12.nupkg.sha512",
     "C:\\Users\\ET61279\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
     "C:\\Users\\ET61279\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
     "C:\\Users\\ET61279\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
@@ -63,7 +78,8 @@
     "C:\\Users\\ET61279\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\ET61279\\.nuget\\packages\\system.text.json\\9.0.5\\system.text.json.9.0.5.nupkg.sha512",
     "C:\\Users\\ET61279\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\ET61279\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+    "C:\\Users\\ET61279\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ET61279\\.nuget\\packages\\yamldotnet\\16.3.0\\yamldotnet.16.3.0.nupkg.sha512"
   ],
   "logs": []
 }
