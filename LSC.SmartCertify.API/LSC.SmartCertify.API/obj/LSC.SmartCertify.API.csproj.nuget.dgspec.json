@@ -117,7 +117,11 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.Domain\\LSC.SmartCertify.Domain.csproj": {
+                "projectPath": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.Domain\\LSC.SmartCertify.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -201,6 +205,30 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -249,7 +277,14 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.Application\\LSC.SmartCertify.Application.csproj": {
+                "projectPath": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.Application\\LSC.SmartCertify.Application.csproj"
+              },
+              "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.Domain\\LSC.SmartCertify.Domain.csproj": {
+                "projectPath": "C:\\Users\\ET61279\\OneDrive - EVERTEC Group, LLC\\Escritorio\\Cursos\\SmartCertify\\LSC.SmartCertify.API\\LSC.SmartCertify.Domain\\LSC.SmartCertify.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -267,6 +302,30 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

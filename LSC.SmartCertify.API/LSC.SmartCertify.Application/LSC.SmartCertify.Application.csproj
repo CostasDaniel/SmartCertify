@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LSC.SmartCertify.Domain\LSC.SmartCertify.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LSC.SmartCertify.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19dccf2f09fa4466e6b6617e0cf00440a392c271")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08ede6b262355853d01e9676b2b437adaad56c75")]
 [assembly: System.Reflection.AssemblyProductAttribute("LSC.SmartCertify.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LSC.SmartCertify.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

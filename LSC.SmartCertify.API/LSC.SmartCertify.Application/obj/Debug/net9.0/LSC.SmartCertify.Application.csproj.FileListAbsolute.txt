@@ -1,0 +1,16 @@
+C:\Users\ET61279\OneDrive - EVERTEC Group, LLC\Escritorio\Cursos\SmartCertify\LSC.SmartCertify.API\LSC.SmartCertify.Application\bin\Debug\net9.0\LSC.SmartCertify.Application.deps.json
+C:\Users\ET61279\OneDrive - EVERTEC Group, LLC\Escritorio\Cursos\SmartCertify\LSC.SmartCertify.API\LSC.SmartCertify.Application\bin\Debug\net9.0\LSC.SmartCertify.Application.dll
+C:\Users\ET61279\OneDrive - EVERTEC Group, LLC\Escritorio\Cursos\SmartCertify\LSC.SmartCertify.API\LSC.SmartCertify.Application\bin\Debug\net9.0\LSC.SmartCertify.Application.pdb
+C:\Users\ET61279\OneDrive - EVERTEC Group, LLC\Escritorio\Cursos\SmartCertify\LSC.SmartCertify.API\LSC.SmartCertify.Application\bin\Debug\net9.0\LSC.SmartCertify.Domain.dll
+C:\Users\ET61279\OneDrive - EVERTEC Group, LLC\Escritorio\Cursos\SmartCertify\LSC.SmartCertify.API\LSC.SmartCertify.Application\bin\Debug\net9.0\LSC.SmartCertify.Domain.pdb
+C:\Users\ET61279\OneDrive - EVERTEC Group, LLC\Escritorio\Cursos\SmartCertify\LSC.SmartCertify.API\LSC.SmartCertify.Application\obj\Debug\net9.0\LSC.SmartCertify.Application.csproj.AssemblyReference.cache
+C:\Users\ET61279\OneDrive - EVERTEC Group, LLC\Escritorio\Cursos\SmartCertify\LSC.SmartCertify.API\LSC.SmartCertify.Application\obj\Debug\net9.0\LSC.SmartCertify.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET61279\OneDrive - EVERTEC Group, LLC\Escritorio\Cursos\SmartCertify\LSC.SmartCertify.API\LSC.SmartCertify.Application\obj\Debug\net9.0\LSC.SmartCertify.Application.AssemblyInfoInputs.cache
+C:\Users\ET61279\OneDrive - EVERTEC Group, LLC\Escritorio\Cursos\SmartCertify\LSC.SmartCertify.API\LSC.SmartCertify.Application\obj\Debug\net9.0\LSC.SmartCertify.Application.AssemblyInfo.cs
+C:\Users\ET61279\OneDrive - EVERTEC Group, LLC\Escritorio\Cursos\SmartCertify\LSC.SmartCertify.API\LSC.SmartCertify.Application\obj\Debug\net9.0\LSC.SmartCertify.Application.csproj.CoreCompileInputs.cache
+C:\Users\ET61279\OneDrive - EVERTEC Group, LLC\Escritorio\Cursos\SmartCertify\LSC.SmartCertify.API\LSC.SmartCertify.Application\obj\Debug\net9.0\LSC.SmartCertify.Application.sourcelink.json
+C:\Users\ET61279\OneDrive - EVERTEC Group, LLC\Escritorio\Cursos\SmartCertify\LSC.SmartCertify.API\LSC.SmartCertify.Application\obj\Debug\net9.0\LSC.Smar.23547949.Up2Date
+C:\Users\ET61279\OneDrive - EVERTEC Group, LLC\Escritorio\Cursos\SmartCertify\LSC.SmartCertify.API\LSC.SmartCertify.Application\obj\Debug\net9.0\LSC.SmartCertify.Application.dll
+C:\Users\ET61279\OneDrive - EVERTEC Group, LLC\Escritorio\Cursos\SmartCertify\LSC.SmartCertify.API\LSC.SmartCertify.Application\obj\Debug\net9.0\refint\LSC.SmartCertify.Application.dll
+C:\Users\ET61279\OneDrive - EVERTEC Group, LLC\Escritorio\Cursos\SmartCertify\LSC.SmartCertify.API\LSC.SmartCertify.Application\obj\Debug\net9.0\LSC.SmartCertify.Application.pdb
+C:\Users\ET61279\OneDrive - EVERTEC Group, LLC\Escritorio\Cursos\SmartCertify\LSC.SmartCertify.API\LSC.SmartCertify.Application\obj\Debug\net9.0\ref\LSC.SmartCertify.Application.dll

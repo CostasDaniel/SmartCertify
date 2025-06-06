@@ -5,6 +5,12 @@ VisualStudioVersion = 17.14.36121.58 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSC.SmartCertify.API", "LSC.SmartCertify.API\LSC.SmartCertify.API.csproj", "{1CE084EA-D2EE-4064-8062-42DF297301A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSC.SmartCertify.Domain", "LSC.SmartCertify.Domain\LSC.SmartCertify.Domain.csproj", "{BD98645C-3101-486A-A630-BA915ED8A5CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSC.SmartCertify.Application", "LSC.SmartCertify.Application\LSC.SmartCertify.Application.csproj", "{613081C4-6164-4AB8-A789-550CDE05D82A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSC.SmartCertify.Infrastructure", "LSC.SmartCertify.Infrastructure\LSC.SmartCertify.Infrastructure.csproj", "{964A4756-D7A8-4477-B3A8-BC0E7B45DFC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{1CE084EA-D2EE-4064-8062-42DF297301A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CE084EA-D2EE-4064-8062-42DF297301A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CE084EA-D2EE-4064-8062-42DF297301A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD98645C-3101-486A-A630-BA915ED8A5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD98645C-3101-486A-A630-BA915ED8A5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD98645C-3101-486A-A630-BA915ED8A5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD98645C-3101-486A-A630-BA915ED8A5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{613081C4-6164-4AB8-A789-550CDE05D82A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{613081C4-6164-4AB8-A789-550CDE05D82A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{613081C4-6164-4AB8-A789-550CDE05D82A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{613081C4-6164-4AB8-A789-550CDE05D82A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{964A4756-D7A8-4477-B3A8-BC0E7B45DFC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964A4756-D7A8-4477-B3A8-BC0E7B45DFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964A4756-D7A8-4477-B3A8-BC0E7B45DFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964A4756-D7A8-4477-B3A8-BC0E7B45DFC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
